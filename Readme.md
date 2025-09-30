@@ -4,6 +4,8 @@
 
 #### por Adrian Mosquera Alvarez
 
+:smile:
+
 La **inteligencia artificial (IA)** es tá transformando profundamente la manera en que los seres humanos aprenden.
 
 <font color='red'>Gracias a herramientas impulsadas por **IA** </font>, como <ins>tutores virtuales, plataformas de aprendizaje personalizadas y asistentes inteligentes</ins>, los estudiantes pueden acceder a contenidos adaptados a su ritmo, estilo y necesidades específicas. **_Esto permite un aprendizaje más eficiente y personalizado_** 
