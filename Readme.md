@@ -37,3 +37,10 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 
 >[!CAUTION]
 > Cuidado
+
+
+
+| primeros | Segundos|
+| --- | --- |
+| ia | humanos |
+| humanos | ia |
