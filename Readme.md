@@ -18,6 +18,20 @@ La **inteligencia artificial (IA)** es tá transformando profundamente la manera
 
 ---
 
+<details>
+
+<summary>IMPORTANTE</summary>
+
+### MUY IMPORTANTE
+
+No podemos dejar que la IA piense por nosotros.
+
+Es un riesgo acostumbrarnos a pedirle todo.
+
+</details>
+
+
+
 Además, la IA <sup>facilita el análisis</sup> de grandes cantidades de datos educativos, lo que ayuda a identificar fortalezas y debilidades en los procesos de enseñanza y aprendizaje. **Sin embargo**, también plantea desafíos, ~~como la posible dependencia excesiva de la tecnología o la pérdida de habilidades críticas como la memoria o el pensamiento analítico~~.
 
 Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https://github.com/amosqueraalvarez/MarkDown)
