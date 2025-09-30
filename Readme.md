@@ -36,4 +36,4 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 
 
 >[!CAUTION]
-> CUIDADO
+> Cuidado
