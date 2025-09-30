@@ -1,1 +1,1 @@
-#  Influencia de las IAs en el aprendizaje humano 
+#  Influencia de las IAs en el aprendizaje humano
