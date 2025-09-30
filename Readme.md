@@ -18,3 +18,5 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 
 - Rapido acceso a cualquier informacion
 - Ayuda en cada momento
+
+[documento](datos.txt)
