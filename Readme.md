@@ -20,3 +20,5 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 - Ayuda en cada momento
 
 [documento](datos.txt)
+
+[carpeta de imagenes](colores.txt)
