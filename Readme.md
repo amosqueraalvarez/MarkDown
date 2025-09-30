@@ -12,3 +12,4 @@ Además, la IA <sup>facilita el análisis</sup> de grandes cantidades de datos e
 
 Este archivo README.md puede encontrarlo en el siguiente enlace [(https://github.com/amosqueraalvarez/MarkDown)]
 
+![Descripción de la imagen](https://picsum.photos/800/600)
