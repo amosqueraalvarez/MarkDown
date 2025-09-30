@@ -1,4 +1,4 @@
-#  Influencia de las IAs en el aprendizaje humano
+#  <font color='rainbow'>Influencia de las IAs en el aprendizaje humano</font>
 
 ## La nueva era de la enseñanza
 
@@ -6,7 +6,7 @@
 
 La **inteligencia artificial (IA)** es tá transformando profundamente la manera en que los seres humanos aprenden.
 
-`#RRGGBB`Gracias a herramientas impulsadas por **IA**, como <ins>tutores virtuales, plataformas de aprendizaje personalizadas y asistentes inteligentes</ins>, los estudiantes pueden acceder a contenidos adaptados a su ritmo, estilo y necesidades específicas. **_Esto permite un aprendizaje más eficiente y personalizado_**`#0969DA`
+<font color='red'>Gracias a herramientas impulsadas por **IA** </font>, como <ins>tutores virtuales, plataformas de aprendizaje personalizadas y asistentes inteligentes</ins>, los estudiantes pueden acceder a contenidos adaptados a su ritmo, estilo y necesidades específicas. **_Esto permite un aprendizaje más eficiente y personalizado_** 
 
 ![imagen web](https://elordenmundial.com/wp-content/uploads/2023/04/que-es-inteligencia-artificial.jpg)
 
