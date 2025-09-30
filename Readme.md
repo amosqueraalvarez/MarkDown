@@ -6,11 +6,17 @@
 
 :smile:
 
+---
+
 La **inteligencia artificial (IA)** es tá transformando profundamente la manera en que los seres humanos aprenden.
 
 <font color='red'>Gracias a herramientas impulsadas por **IA** </font>, como <ins>tutores virtuales, plataformas de aprendizaje personalizadas y asistentes inteligentes</ins>, los estudiantes pueden acceder a contenidos adaptados a su ritmo, estilo y necesidades específicas. **_Esto permite un aprendizaje más eficiente y personalizado_** 
 
+---
+
 ![imagen web](https://elordenmundial.com/wp-content/uploads/2023/04/que-es-inteligencia-artificial.jpg)
+
+---
 
 Además, la IA <sup>facilita el análisis</sup> de grandes cantidades de datos educativos, lo que ayuda a identificar fortalezas y debilidades en los procesos de enseñanza y aprendizaje. **Sin embargo**, también plantea desafíos, ~~como la posible dependencia excesiva de la tecnología o la pérdida de habilidades críticas como la memoria o el pensamiento analítico~~.
 
