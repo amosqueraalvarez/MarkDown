@@ -22,3 +22,5 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 [carpeta de imagenes](colores.txt)
 
 ![imagen ia](imagenes/1727711007239.png)
+
+![imagen web](https://www.google.com/imgres?q=imagen%20ai%20png&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fthumbnails%2F021%2F358%2F803%2Fsmall_2x%2Fartificial-intelligence-icon-element-design-illustration-ai-technology-and-cyber-icon-element-futuristic-technology-service-and-communication-artificial-intelligence-concept-png.png&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Fpng-gratis%2Fai&docid=i1wARnqFSQe5mM&tbnid=E92Vq_e9IGpQoM&vet=12ahUKEwiG-uHYtYCQAxX3VaQEHUA8Ao8QM3oECBkQAA..i&w=413&h=400&hcb=2&ved=2ahUKEwiG-uHYtYCQAxX3VaQEHUA8Ao8QM3oECBkQAA)
