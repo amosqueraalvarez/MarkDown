@@ -12,7 +12,7 @@ Además, la IA <sup>facilita el análisis</sup> de grandes cantidades de datos e
 
 Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https://github.com/amosqueraalvarez/MarkDown)
 
-![Descripción de la imagen](https://picsum.photos/800/600)
+![Una flor porque si](https://picsum.photos/800/600)
 
 **PROS DE LA INTELIGENCIA ARTIFICIAL EN LA ENSEÑANZA**
 
@@ -22,3 +22,5 @@ Este archivo README.md puede encontrarlo en el siguiente enlace [enlace](https:/
 [documento](datos.txt)
 
 [carpeta de imagenes](colores.txt)
+
+![imagen ia](imagenes/1727711007239.png)
